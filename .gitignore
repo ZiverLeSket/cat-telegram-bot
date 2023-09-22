@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+catpics/
+.dockerignore
+.env
+cat_recognizer.py
+database.py
+fly.toml
+Dockerfile
+haarcascade_frontalcatface.xml
+imgur_test.py
